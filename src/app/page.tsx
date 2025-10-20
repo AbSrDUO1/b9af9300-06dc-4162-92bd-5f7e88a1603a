@@ -51,10 +51,10 @@ export default function Home() {
           title="What Our Customers Say"
           description="Hear from our happy customers"
           testimonials={[
-            { id: "1", name: "Sarah Johnson", role: "Food Blogger", rating: 5, imageSrc: assetMap.find((a) => a.id === "customer-testimonial-1")?.url },
-            { id: "2", name: "Michael Chen", role: "Local Guide", rating: 5, imageSrc: assetMap.find((a) => a.id === "customer-testimonial-2")?.url },
-            { id: "3", name: "Emily Rodriguez", role: "Pizza Lover", rating: 5, imageSrc: assetMap.find((a) => a.id === "customer-testimonial-3")?.url },
-            { id: "4", name: "David Kim", role: "Family Man", rating: 5, imageSrc: assetMap.find((a) => a.id === "customer-testimonial-4")?.url }
+            { id: "1", name: "Sarah Johnson", role: "Food Blogger", rating: 5, imageSrc: assetMap.find((a) => a.id === "customer-testimonial-1")?.url, company: "" },
+            { id: "2", name: "Michael Chen", role: "Local Guide", rating: 5, imageSrc: assetMap.find((a) => a.id === "customer-testimonial-2")?.url, company: "" },
+            { id: "3", name: "Emily Rodriguez", role: "Pizza Lover", rating: 5, imageSrc: assetMap.find((a) => a.id === "customer-testimonial-3")?.url, company: "" },
+            { id: "4", name: "David Kim", role: "Family Man", rating: 5, imageSrc: assetMap.find((a) => a.id === "customer-testimonial-4")?.url, company: "" }
           ]}
         />
       </div>
