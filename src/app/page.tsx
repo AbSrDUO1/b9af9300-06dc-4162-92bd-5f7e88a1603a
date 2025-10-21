@@ -42,7 +42,7 @@ export default function Home() {
       </div>
       <div id="about" data-section="about">
         <TextAbout
-          title="Experience the Taste of Tradition at Our Pizzeria"
+          title="Experience the wegewgewg of Tradition at Our Pizzeria"
           buttons={[{ text: "Learn More", href: "about" }]}
         />
       </div>
