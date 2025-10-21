@@ -9,7 +9,7 @@ import ContactSplit from '@/components/sections/contact/ContactSplit';
 import FooterBase from '@/components/sections/footer/FooterBase';
 
 const assetMap = [
-  { "id": "pizza-hero", "url": "https://images.pexels.com/photos/708587/pexels-photo-708587.jpeg?auto=compress&cs=tinysrgb&h=650&w=940", "alt": "A mouthwatering slice of pepperoni pizza with cheese and spices, ideal for any meal." },
+  { "id": "pizza-hero", "url": "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_346q1PwyWBLFgxn5R5gWYFVRO0Y/tmp/about-our-pizzeria-1760940821535-bdfd3f1b.jpg", "alt": "A mouthwatering slice of pepperoni pizza with cheese and spices, ideal for any meal." },
   { "id": "pizzeria-team", "url": "https://images.pexels.com/photos/6605254/pexels-photo-6605254.jpeg?auto=compress&cs=tinysrgb&h=650&w=940", "alt": "A cheerful chef engages with a couple in a cozy pizzeria, creating a welcoming atmosphere." },
   { "id": "customer-testimonial-1", "url": "https://images.pexels.com/photos/7315008/pexels-photo-7315008.jpeg?auto=compress&cs=tinysrgb&h=650&w=940", "alt": "A young woman smiling while savoring a slice of pizza in her living room." },
   { "id": "customer-testimonial-2", "url": "https://images.pexels.com/photos/4126797/pexels-photo-4126797.jpeg?auto=compress&cs=tinysrgb&h=650&w=940", "alt": "Two women enjoying pizza and beer in a cozy kitchen setting." },
